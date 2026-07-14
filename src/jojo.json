@@ -1,0 +1,20 @@
+[
+  {
+    "email": "Peddz@test.com",
+    "password": "1234",
+    "name": "ผู้ดูแลระบบ",
+    "role": "admin"
+  },
+   {
+    "email": "fourxd@test.com",
+    "password": "1234",
+    "name": "ผู้ดูแลระบบ",
+    "role": "admin"
+  },
+  {
+    "email": "iii@test.com",
+    "password": "1234",
+    "name": "ผู้ใช้งานทั่วไป",
+    "role": "user"
+  }
+]
